@@ -1,0 +1,19 @@
+
+     
+  
+  @keyframes tb {
+    0%{
+      box-shadow: 2px 1px 90px rgb(208, 205, 211);
+    }
+    25%{
+      box-shadow: 2px 1px 90px hsl(270, 83%, 42%);
+    }
+    50%{
+      box-shadow: 2px 1px 90px hsl(192, 78%, 34%);
+    }
+    100%{
+      box-shadow: 2px 1px 90px rgb(204, 204, 3);
+    }
+  }
+
+  
